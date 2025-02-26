@@ -6,7 +6,7 @@ To run a script natively in Illustrator use `File > Scripts > Other Script...` a
 
 ## Scripts
 
-### [Update Artboard Positions (v1.0)](/scripts/Update%20Artboard%20Positions.jsx)
+#### [Update Artboard Positions (v1.0)](/scripts/Update%20Artboard%20Positions.jsx)
 
 There is a bug in Adobe Illustrator where when the `X` and `Y` positions of an
 artboard contain decimal values, the final output using any export method will result in
