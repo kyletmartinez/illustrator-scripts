@@ -1,0 +1,15 @@
+{
+  "name": "illustrator-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-eslint": "^6.0.0",
+    "jsdoc-to-markdown": "^9.1.1"
+  }
+}
