@@ -5,7 +5,8 @@
         "allowReserved": false
     },
     "globals": {
-        "app": "readonly"
+        "app": "readonly",
+        "RGBColor": "readonly"
     },
     "rules": {
         "array-bracket-newline": ["error", {
